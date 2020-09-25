@@ -20,6 +20,7 @@ repositories {
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
+	//implementation 'org.zalando:logbook-spring-boot-starter:2.2.0'
 	implementation 'com.google.guava:guava:29.0-android'
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
